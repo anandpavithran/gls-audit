@@ -14,7 +14,7 @@
       Download
     </button>
   </body>
-</html>
+
 2. Create a bootable USB stick.
 <html>
   <head>
