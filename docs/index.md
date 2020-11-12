@@ -3,9 +3,9 @@
 
 
 ### Read the instructions
-
-1. Download the iso 
 <html>
+1. Download the iso. 
+
   <head>
     <title>Title of the document</title>
   </head>
@@ -26,4 +26,5 @@
       Steps
     </button>
   </body>
+  <br>
 </html>
