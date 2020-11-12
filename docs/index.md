@@ -11,7 +11,7 @@
   </head>
   <body>
     <button onclick="window.location.href='https://www.redhat.com';">
-      Click Here
+      Download
     </button>
   </body>
 </html>
