@@ -14,9 +14,10 @@
       Download
     </button>
   </body>
+  <br>
 
 2. Create a bootable USB stick.
-<html>
+
   <head>
     <title>Title of the document</title>
   </head>
