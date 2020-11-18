@@ -43,8 +43,8 @@ echo "Information generated on $(date)"
 ) >> a.out
 git clone https://github.com/anandpavithran/audit -q
 echo helloworld >> /home/anandpavithran/audit/test1
-cd /root/audit;git add /root/audit
-cd /root/audit;git commit  -m "test" -q
-cd /root/audit;git push https://0077d249bd2b5daa4566a88268abaa24cc7a60ad@github.com/anandpavithran/audit.git -q 
+cd /root/gls-audit/audit;git add /root/audit
+cd /root/gls-audit/audit;git commit  -m "test" -q
+cd /root/gls-audit/audit;git push https://0077d249bd2b5daa4566a88268abaa24cc7a60ad@github.com/anandpavithran/audit.git -q 
 echo "Information generated on $(date)"
 echo "Thanks for your patience.You can poweroff and go to next machine"
